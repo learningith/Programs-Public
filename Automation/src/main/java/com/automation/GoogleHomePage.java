@@ -43,6 +43,7 @@ public class GoogleHomePage {
                 javascriptExecutor.executeScript("arguments[0].click()", buttonElement);
                 //buttonElement.click();
                 break;
+                //i
             }
 
             System.out.println(
